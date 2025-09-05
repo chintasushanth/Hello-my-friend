@@ -4,3 +4,4 @@ this is my new git repository.
 the author - the (ch sushanth)
 <br>
 this is my first day to learn the git and git hub.
+finally i understand it
