@@ -1,0 +1,12 @@
+int main () {
+    int a;
+    int b;
+    printf("enter the values:/n");
+    scanf("%d,%d",&a,&b);
+    if (a>0<b)
+    printf("Entered value is positive:/n");
+    else
+    printf("Entered value is negative:/n");
+    return 0;
+
+}
